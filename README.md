@@ -10,7 +10,7 @@ This is the Android version of my web app [Grateful](https://loottori.github.io/
 
 | Today | History | Verses | Thoughts |
 |---|---|---|---|
-| <img src="C:\Projektit\Mobiiliohjelmointi\Grateful\screenshots\today.png" width="200"/> | <img src="C:\Projektit\Mobiiliohjelmointi\Grateful\screenshots\history.png" width="200"/> | <img src="C:\Projektit\Mobiiliohjelmointi\Grateful\screenshots\verses.png" width="200"/> | <img src="C:\Projektit\Mobiiliohjelmointi\Grateful\screenshots\thoughts.png" width="200"/> |
+| <img src="screenshots/today.png" width="200"> | <img src="screenshots/history.png" width="200"> | <img src="screenshots/verses.png" width="200"> | <img src="screenshots/thoughts.png" width="200"> |
 
 ## Features
 
