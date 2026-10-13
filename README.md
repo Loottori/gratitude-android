@@ -70,9 +70,6 @@ app/src/main/java/com/loottori/grateful/
 
 ## Running the project
 
-
-## Running the project
-
 1. Clone the repository and open it in Android Studio.
 2. Let Gradle sync finish.
 3. Run the app on an emulator or a device with internet access.
